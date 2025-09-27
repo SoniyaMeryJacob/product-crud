@@ -1,6 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
-
-// Toggle this flag:
+// Toggle this flag:-
 // true  = only 2 products (dev mode)
 // false = 100,000 products (submission mode)
 const DEV_MODE = true;
